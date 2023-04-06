@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680787367991" clover="3.2.0">
+  <project timestamp="1680787367991" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="11" coveredconditionals="10" methods="3" coveredmethods="3" elements="33" coveredelements="32" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="Character.js" path="C:\Users\user\Desktop\ajs-oop-2\src\Character.js">
+      <metrics statements="19" coveredstatements="19" conditionals="11" coveredconditionals="10" methods="3" coveredmethods="3"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="5" count="6" type="cond" truecount="5" falsecount="0"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="34" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="35" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
